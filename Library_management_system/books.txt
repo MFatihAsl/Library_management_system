@@ -1,0 +1,9 @@
+Harry Potter and the Sorcerer's Stone, J.K. Rowling, 1997, 320
+The Great Gatsby, F. Scott Fitzgerald, 1925, 180
+Pride and Prejudice, Jane Austen, 1813, 279
+Denetimsiz Makine Ogrenmesi,Elif Kartal,2023,408
+Veri Madenciligi ve Makine Ogrenmesi,Elif Kartal,2019,392
+R ile Veri MAdenciligi Uygulamalari,Elif Kartal,2016,295
+R ve Python Uygulamalari,Zeki Ozen,2023,408
+Yaratici Drama Bibliyografyasi,Zeki Ozen,2014,104
+isletme Enformatigine Giris,Zeki Ozen,2019,188
