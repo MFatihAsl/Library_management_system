@@ -6,14 +6,14 @@ This Python library provides basic functionality for managing a list of books. U
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.0
 
 ### Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Library_management_system.git
+    git clone https://github.com/MFatihAsl/Library_management_system.git
     ```
 
 2. Navigate to the project directory:
